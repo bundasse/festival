@@ -42,7 +42,7 @@ export default {
   name: 'App',
   data() {
     return {
-      pageList: 30, // 한 페이지당 10개
+      pageList: 32, // 한 페이지당 10개
       listItem:[], // 배열 넣을 땐 대괄호 꼭 해줘야함!
       page: 1,
       totalCount:0, //총 개수
